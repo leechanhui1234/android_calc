@@ -394,7 +394,7 @@ class MainActivity : TabActivity() {
         }
 
         moonhui.setOnClickListener {
-            Toast.makeText(applicationContext, "이메일 : 1724014@donga.ac.kr" + "\n" + "전화번호 : 010-2335-4641",Toast.LENGTH_LONG).show()
+            Toast.makeText(applicationContext, "이메일 : 1724014@donga.ac.kr" + "\n" + "전화번호 : -",Toast.LENGTH_LONG).show()
         }
     }
 
