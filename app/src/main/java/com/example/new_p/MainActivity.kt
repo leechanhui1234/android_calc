@@ -389,6 +389,7 @@ class MainActivity : TabActivity() {
                 we.removeAllViews()
                 we.visibility = View.INVISIBLE
                 pocari = false
+                //테스트
             }
 
         }
